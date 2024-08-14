@@ -1,4 +1,4 @@
-// reduce() is a loop which returns the last return on every iteration 
+// reduce() is a loop which returns the last item on every iteration 
 var listOfNumbers = [10,20,30,40,50,60];
 var namelist = ['Shoaib',"bilal","Saad","Umair"]
 
